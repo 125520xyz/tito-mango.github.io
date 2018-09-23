@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1ba8f62d66228ee3f6f6                            #生成的clientID
   clientSecret: e1d80d348dd24efba227a98a87c9c61820e807a3    #生成的clientSecret
-  repo: smartBBer.github.io    #仓库名称
-  owner: smartBBer    #github用户名
-  admin: smartBBer
+  repo: xiaozhan57.github.io    #仓库名称
+  owner: xiaozhan57   #github用户名
+  admin:xiaozhan57
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id: becddaef61a08850869c1e21a2a071d4
 
 # Google Analytics
 ga_track_id: 'UA-125101386-1'            # Format: UA-xxxxxx-xx
-ga_domain: smartbber.github.io              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto             # 默认的是 auto，可以改为自定义域名
 
 
 
@@ -114,12 +114,12 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
+    #    title: "乱序",
+    #    href: "http://mida.re/"
+    #},{
+    #    title: "前端外刊评论",
+    #   href: "http://qianduan.guru/"
+    #},{
         title: "天镶的博客",
         href: "http://lingyu.wang/"
     },{
